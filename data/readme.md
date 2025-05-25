@@ -1,1 +1,1 @@
-This folder stores processed EAE data.
+This folder places processed EAE data.
