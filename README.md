@@ -65,8 +65,9 @@ The above scripts will generate processed data in `./process_data`.
 
 Following [PAIE's](https://github.com/mayubo2333/PAIE) operation.
 
+#### Convert to GEMS input format
 
-Finally, We convert all dataset above into the following format for train, dev and test.
+Finally, convert all dataset above into the following format for train, dev and test.
 
 ~~~json
 {
