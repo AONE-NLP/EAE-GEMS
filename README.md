@@ -123,7 +123,13 @@ bash ./scripts/run_ERE-EN_030.sh
 ## Citation
 
 ```
-
+@inproceedings{lin2025gems,
+  title={GEMS: Generation-Based Event Argument Extraction via Multi-perspective Prompts and Ontology Steering},
+  author={Lin, Run and Liu, Yao and Gan, Yanglei and Cai, Yuxiang and Lan, Tian and Liu, Qiao},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2025},
+  pages={26392--26409},
+  year={2025}
+}
 
 ```
 
