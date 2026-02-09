@@ -1,6 +1,6 @@
 # Overview
 
-Code and implementation details of our paper `GEMS: Generation-Based Event Argument Extractionvia Multi-perspective Prompts and Ontology Steering`, accepted by Findings of ACL 2025.
+Code and implementation details of our paper ![GEMS](https://aclanthology.org/2025.findings-acl.1353/): Generation-Based Event Argument Extractionvia Multi-perspective Prompts and Ontology Steering, accepted by Findings of ACL 2025.
 
 ![](model-EAE-GEMS.jpg)
 
@@ -126,6 +126,7 @@ bash ./scripts/run_ERE-EN_030.sh
 
 
 ```
+
 
 
 
